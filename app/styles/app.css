@@ -1,0 +1,9 @@
+.top-bar {
+	background-color: #444;
+}
+.top-bar, .top-bar ul {
+	background-color: #444;
+}
+.top-bar, .top-bar ul li a {
+	color: #fff;
+}
