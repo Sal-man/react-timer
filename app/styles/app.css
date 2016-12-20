@@ -1,9 +1,20 @@
 .top-bar {
 	background-color: #444;
+	padding: 0 15px;
 }
 .top-bar, .top-bar ul {
 	background-color: #444;
 }
 .top-bar, .top-bar ul li a {
 	color: #fff;
+
+}
+.top-bar ul li a  {
+	padding-top: 15px;
+	padding-bottom: 15px; 
+}
+
+.top-bar .active-link {
+	background-color: #fff;
+	color: #444;
 }

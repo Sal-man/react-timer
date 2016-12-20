@@ -1,4 +1,4 @@
-var expect = require('expect');
+var expect = require('expect'); 
 
 describe('App', () => {
 	it('Should Properly RUn TEst ', () => {
